@@ -1,57 +1,57 @@
-a[href$="unsorted.php?id=209875"]>div.cave-grid>img{
-content: url('https://static.lioden.com/images/dynamic/backgrounds/CrowdedBackstage.png')!important;
+a[href$="unsorted.php?id=209970"]>div.cave-grid>img{
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important;
 width: 240px;
 height: 60px;}
 
 div.cave-grid>img[src$="nestingbanner.png"] {
-	content: url('https://static.lioden.com/images/dynamic/backgrounds/CrowdedBackstage.png')!important; 
+	content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important; 
 width: 240px;
 height: 60px; }
 
-a[href*="lionoverview.php?id=209875"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/CrowdedBackstage.png')!important;
+a[href*="lionoverview.php?id=209970"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important;
 width: 240px;
 height: 60px; }
 
 /* Cubs & Males */
 
-a[href$="150057"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
-width: 240px !important;
-height: 120px !important; }
-
-/* Empty */
-a[href$="378804"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important; 
+a[href$="237007"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* Females */
-a[href$="148383"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
+a[href$="148500"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
 /* NCL Paradise */
-a[href$="378803"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
+a[href$="543738"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 /* Old Ladies */
-a[href$="261642"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important; 
+a[href$="502439"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important;
+width: 240px !important;
+height: 120px !important; }
+
+/* Project */
+a[href$="502450"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important; 
 width: 240px !important;
 height: 120px !important; }
 
 /* Sales */
-a[href$="149095"]>div.cave-grid>img {
-content: url('https://static.lioden.com/images/dynamic/backgrounds/arena_corridors.png')!important;
+a[href$="237008"]>div.cave-grid>img {
+content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png')!important;
 width: 240px !important;
 height: 120px !important; }
 
 a[href$="unsorted-beetles.php?id=209875"] img {
-content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
+content:url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mountiantop.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
