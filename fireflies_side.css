@@ -50,18 +50,21 @@ content: url('https://static.lioden.com/images/dynamic/backgrounds/cape_town_mou
 width: 240px !important;
 height: 120px !important; }
 
+/* Beetle unsorted */
 a[href$="unsorted-beetles.php?id=209970"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
+/* Beetles */
 a[href$="mound.php?id=75369"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
 width: 130px;
 height: 80px; } 
 
+/* Beetle Empty */
 a[href$="mound.php?id=242755"] img {
 content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
 background-size: cover;
