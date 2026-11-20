@@ -71,6 +71,12 @@ background-size: cover;
 width: 130px;
 height: 80px; } 
 
+/* Beetle Sales */
+a[href$="mound.php?id=267600"] img {
+content:url('https://static.lioden.com/images/dynamic/backgrounds/rabbitPeltCave.png') !important;
+background-size: cover;
+width: 130px;
+height: 80px; } 
 
 
 .firefly {
